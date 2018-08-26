@@ -1,0 +1,1 @@
+[null,{"name":"error","temp":"","event-type":"37","actions":[{"channel":"4","varName":"","message":"ERROR발생!!!!","storage":"0","varName2":"","name":"Send Message"}]},{"name":"join","temp":"","event-type":"6","actions":[{"channel":"4","varName":"","message":"${member}님이 들어오셨 습니다.","storage":"0","varName2":"","name":"Send Message"}]}]
